@@ -5,3 +5,4 @@ Para el uso de OTA se debe:
 - Copiar y pegar el archivo .bin
 - Cambiar siempre un archivo txt que tenga solo la versión, la ESP descarga el firmware si ve un cambio aca
 - Eso, ser feliz subiendo los cambios con push. Voy a dejar un hello world de OTA aca para que lo usen si quieren
+- Bueno esto es público, idealmente si lo uso solo yo jajaj porque si no me destruyen todo
